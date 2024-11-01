@@ -12,10 +12,10 @@ Login için 2 adet kullanıcı tanımladım. Birisi Admin olarak tüm yetkilere 
 
 Kullanıcı bilgileri:
 
-# Kullanıcı Adı: osman
-# Şifre: 123
-# Yetki: Admin
+Kullanıcı Adı: osman
+Şifre: 123
+Yetki: Admin
 
-# Kullanıcı Adı: medine
-# Şifre: 123
-# Yetki: Moderatör
+Kullanıcı Adı: medine
+Şifre: 123
+Yetki: Moderatör
